@@ -1,5 +1,4 @@
 # eassy
-ECNU 
 Self-adaptive    Resource allocation in the cloud
 
 
